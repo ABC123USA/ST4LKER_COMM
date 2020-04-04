@@ -12,4 +12,8 @@ EACH FOLDER CONTAINS A TEST MOVIE FILE TO CONVERT TO BINARY, HEXADECIMAL OR BASE
 
 SEE ORIGINAL DOCUMENTATION FOR MORE DETAILS:
 
+ST4LKER COMMUNICATION SYSTEMS:
 https://www.facebook.com/pg/abc123networktheory/posts/?ref=page_internal
+
+ABC 123 USA, LLC
+https://www.facebook.com/abc123usa/
