@@ -17,3 +17,6 @@ https://www.facebook.com/pg/abc123networktheory/posts/?ref=page_internal
 
 ABC 123 USA, LLC
 https://www.facebook.com/abc123usa/
+
+USE A SMARTPHONE QR CODE SCANNER OR READER TO SCAN THE INCLUDED QR CODES
+TO FOLLOW A LINK TO THE LISTED DOCUMENTATION
