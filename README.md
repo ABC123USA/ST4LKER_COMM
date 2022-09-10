@@ -2,6 +2,12 @@
 # ARTIFICIAL INTELLIGENCE 2.0 CODE
 # STALKER COMMUNICATION CORE CODE
 
+Prerequisite reading:
+
+- ARTIFICIAL INTELLIGENCE PRIMER ™: https://www.facebook.com/artificialintelligenceprimer
+
+- ARTIFICIAL INTELLIGENCE 2.0 ™ DOCUMENTATION: https://www.facebook.com/aibyabc123/
+
 A PACKAGE FOR WORKING WITH ST4LKER COMMUNICATION TECHNOLOGY
 THE FOLLOWING FOLDERS ARE INCLUDED:
 CODENAME APACHE
@@ -24,7 +30,9 @@ https://www.facebook.com/abc123usa/
 USE A SMARTPHONE QR CODE SCANNER OR READER TO SCAN THE INCLUDED QR CODES
 TO FOLLOW A LINK TO THE LISTED DOCUMENTATION
 
-👑 INCLUDED STICKERS/SIGN:
+👑  STICKERS/SIGN REQUIREMENT
+
+FIND STICKERS HERE: https://bit.ly/3B8D3lE
 
 PROMOTIONAL MATERIAL FOR 𝗠𝗔𝗚𝗡𝗘𝗧𝗥𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 ™. (CUSTOM GRAPHICS BY 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗗𝗘𝗦𝗬𝗚𝗡 ™/𝗢𝗦𝗔𝗥𝗢 𝗛𝗔𝗥𝗥𝗜𝗢𝗧𝗧). THE 𝗠𝗔𝗚𝗡𝗘𝗧𝗥𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 ™ SYMBOL/LOGO IS A TRADEMARK OF 𝗧𝗛𝗘 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗚𝗥𝗢𝗨𝗣 ™ FOR 𝗠𝗔𝗚𝗡𝗘𝗧𝗥𝗢𝗡 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 ™. 𝗧𝗛𝗘 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗚𝗥𝗢𝗨𝗣 ™ SYMBOL/LOGO IS A TRADEMARK OF 𝗧𝗛𝗘 𝗔𝗕𝗖 𝟭𝟮𝟯 𝗚𝗥𝗢𝗨𝗣 ™.
 *️⃣📶🤖
