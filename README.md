@@ -2,6 +2,19 @@
 # ARTIFICIAL INTELLIGENCE 2.0 ™ CODE
 # STALKER COMMUNICATION ™ CORE CODE
 
+🌐 GENERAL CONSULTING ABC 123 BY OSAROPRIME ™.
+
+🌐 ABC 123 USA ™
+
+🌐 ABC 123 DESYGN ™
+
+🌐 ABC 123 FILMS ™
+
+=============================================================
+
+                     🌐 MAGENTRON ™ TECHNOLOGY 🌐
+                     
+
 Prerequisite reading:
 
 - ARTIFICIAL INTELLIGENCE PRIMER ™: https://www.facebook.com/artificialintelligenceprimer
